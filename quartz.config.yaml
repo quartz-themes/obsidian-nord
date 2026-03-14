@@ -249,12 +249,6 @@ plugins:
     options:
       theme: default
       variation: null
-  - source: github:saberzero1/quartz-themes
-    enabled: true
-    options:
-      theme: tokyo-night
-      mode: both
-    order: 10
 layout:
   groups:
     toolbar:
